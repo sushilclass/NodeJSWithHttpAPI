@@ -1,0 +1,22 @@
+{
+  "name": "imegnodeserver",
+  "version": "1.0.0",
+  "description": "Implement Node server with Websocket and Create API",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Express",
+    "API",
+    "MongoDB",
+    "Mongoose"
+  ],
+  "author": "Sushil Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.8.3"
+  }
+}
